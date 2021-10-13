@@ -1,3 +1,3 @@
 #!/bin/bash
 
-$(date +%F)
+date +'%y-%m-%d'
