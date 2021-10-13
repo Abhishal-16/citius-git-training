@@ -1,2 +1,2 @@
 Hey, Learning git
-Repo name is: 
+Repo name is: citius-git-training 
